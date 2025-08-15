@@ -3,7 +3,7 @@ int main()
 {
     double l;
     printf("input length in cm to convert =");
-    scanf:("%lf", &l);
+    scanf("%lf", &l);
 
    
     double km=l/100000;
